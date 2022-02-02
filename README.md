@@ -16,10 +16,9 @@
 
 
 <p align="center">
-	<a href="=mailto:bellakrim2032@gmail.com">
-		<img alt="Ask Me Anything" src="https://badge42.herokuapp.com/api/stats/abellakr?darkmode=true&cursus=42cursus" />
+	<a href="https://github.com/heybellakrim">
+		<img src="https://badge42.herokuapp.com/api/stats/abellakr?darkmode=true&cursus=42cursus" />
 	</a>
-	<span> * </span>
 </p>
 
 
