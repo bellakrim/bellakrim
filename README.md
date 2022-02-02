@@ -3,7 +3,7 @@
 ### I'm abdellah bellakrim,<br/> Student at [@1337fil](https://1337.ma/) Future is Loading.
 *📚 I am currently learning software engineering at [1337fil](https://1337.ma/).
 * (reading about web development,programming languages, etc...)
-33👐 Ask me about anything, I am happy to help.
+##👐 Ask me about anything, I am happy to help.
 
 
 <p align="center">
@@ -12,7 +12,6 @@
 	</a>
 	<span> * </span>
 </p>
---
 
 | [![abdellah's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=heybellakrim&count_private=true&theme=calm&show_icons=true)](https://github.com/heybellakrim?tab=repositories) | [![abdellah's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact&hide_border=true&theme=jolly)](https://github.com/heybellakrim?tab=repositories) |
 |:-:|:-:|
