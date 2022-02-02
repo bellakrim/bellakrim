@@ -4,11 +4,9 @@
 ###📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
 
 
-<p align="center"><a href="https://github.com/heybellakrim"><img alt="Ask Me Anything" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=abellakr" /></a></p>
-<br/>
 <p align="center">
-	<a href="=mailto:abellakr@student.1337.ma">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:abellakr@student.1337.ma" />
+	<a href="=mailto:bellakrim2032@gmail.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:bellakrim2032@gmail.com" />
 	</a>
 	<span> * </span>
 </p>
