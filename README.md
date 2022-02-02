@@ -7,12 +7,10 @@
 
 
 
-<p align="center">
-	<a href="=mailto:bellakrim2032@gmail.com">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<span>  </span>
-</p>
+
+<a align="center" href="=mailto:bellakrim2032@gmail.com">
+	<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white" />
+</a>
 
 
 <p align="center">
