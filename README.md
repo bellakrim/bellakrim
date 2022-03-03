@@ -10,7 +10,7 @@
 </p>
 
 
-| [![abdellah's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=heybellakrim&count_private=true&theme=calm&show_icons=true)](https://github.com/heybellakrim?tab=repositories) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact)](https://github.com/heybellakrim/github-readme-stats) |
+| ![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=heybellakrim&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact)](https://github.com/heybellakrim/github-readme-stats) |
 |:-:|:-:|
 
 
