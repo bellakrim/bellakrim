@@ -13,11 +13,6 @@
 
 | ![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=heybellakrim&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact)](https://github.com/heybellakrim/github-readme-stats) |
 |:-:|:-:|
-</p>
-<p align="center">
-<iframe src="https://gifer.com/embed/fxVE" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
-</p>
-
-
+<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/fxVE" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 
