@@ -7,9 +7,6 @@
 
 
 <p align="center">
-	<a href="https://github.com/heybellakrim">
-		<img src="https://badge42.herokuapp.com/api/stats/abellakr?darkmode=true&cursus=42cursus" />
-	</a>
 </p>
 
 
