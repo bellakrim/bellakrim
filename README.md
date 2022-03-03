@@ -15,7 +15,7 @@
 |:-:|:-:|
 </p>
 <p align="center">
-<img src="<iframe src="https://gifer.com/embed/fxVE" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>" >
+<iframe src="https://gifer.com/embed/fxVE" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 </p>
 
 
