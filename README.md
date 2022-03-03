@@ -13,6 +13,10 @@
 
 | ![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=heybellakrim&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact)](https://github.com/heybellakrim/github-readme-stats) |
 |:-:|:-:|
+</p>
+<p align="center">
+<img src="https://www.willtheterminatorcometrue.com/wp-content/uploads/2015/12/terminator-2-robot.gif" width="800">
+</p>
 
 
 
