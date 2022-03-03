@@ -18,4 +18,4 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=heybellakrim=true&theme=redical)
+![bellakrim's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=heybellakrim&hide_borde=true&theme=redical)
