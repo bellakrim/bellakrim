@@ -13,7 +13,7 @@
 </p>
 
 
-| [![abdellah's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=heybellakrim&count_private=true&theme=calm&show_icons=true)](https://github.com/heybellakrim?tab=repositories) | [![abdellah's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact&hide_border=true&theme=jolly)](https://github.com/heybellakrim?tab=repositories) |
+| [![abdellah's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=heybellakrim&count_private=true&theme=calm&show_icons=true)](https://github.com/heybellakrim?tab=repositories) | [![abdellah's most used languages]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact)](https://github.com/heybellakrim/github-readme-stats)) |
 |:-:|:-:|
 
 
