@@ -9,9 +9,6 @@
  * Ask me about anything, I am happy to help : <a align="center" href="mailto:bellakrim2032@gmail.com"><img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white" /></a>
 
 
-<p align="center">
-</p>
-
 ### 📈 GitHub Activity stats:
 | ![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=heybellakrim&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact)](https://github.com/heybellakrim/github-readme-stats) |
 |:-:|:-:|
