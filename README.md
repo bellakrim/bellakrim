@@ -3,7 +3,7 @@
 ### I'm abdellah bellakrim💻
 ![programmer picture](https://github.com/heybellakrim/gifs/blob/45b5ed963b3e70cf8d31e05aca261f77d42e9fa9/3otv.gif)
 
-📚 I am currently learning software engineering at <a href="https://1337.ma/en/">1337fil</a> Future is Loading, <a href="https://42.fr/en/network-42/">42 network</a>
+📚 I am currently learning software engineering at <a href="https://1337.ma/en/">1337fil</a> Future is Loading, <a href="https://42.fr/en/network-42/">42 network</a>.
  * (reading about web development ,programming languages, etc...).
  * I love open source, Deep Logic Building & Problem Solving .
  * how to reach me : </br>
