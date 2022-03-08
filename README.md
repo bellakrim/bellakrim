@@ -4,8 +4,8 @@
 ![programmer picture](https://github.com/heybellakrim/gifs/blob/45b5ed963b3e70cf8d31e05aca261f77d42e9fa9/3otv.gif)
 
 📚 I am currently learning software engineering at <a href="https://1337.ma/en/">1337fil</a> Future is Loading, <a href="https://42.fr/en/network-42/">42 network</a>.
- * (reading about web development ,programming languages, etc...).
- * I love open source, Deep Logic Building & Problem Solving .
+ * (learning web development ,programming languages, etc...).
+ * Interested in open source, Deep Logic Building & Problem Solving .
  * how to reach me : </br>
  * <a align="center" href="mailto:bellakrim2032@gmail.com" target="_blank"><img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white" /></a> </br>
  * <a href="https://www.linkedin.com/in/abdellah-bellakrim-0027b6233?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSjDB903oT7%2BioEAvfd9EFQ%3D%3D" target="_blank">
