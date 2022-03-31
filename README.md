@@ -13,7 +13,8 @@
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
 	</a>
 ### 📈 GitHub Activity stats:
-[![abellakr's 42 stats](https://badge.mediaplus.ma/starryblue/abellakr)](https://github.com/oakoudad/badge42)
 | ![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=heybellakrim&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heybellakrim&layout=compact)](https://github.com/heybellakrim/github-readme-stats) |
+[![abellakr's 42 stats](https://badge.mediaplus.ma/starryblue/abellakr)](https://github.com/oakoudad/badge42)
+
 |:-:|:-:|
 
