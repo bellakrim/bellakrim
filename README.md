@@ -2,6 +2,7 @@
 
 ### I'm abdellah bellakrim 💻
 ![Profile views](https://gpvc.arturio.dev/heybellakrim)
+[![abellakr's 42 stats](https://badge.mediaplus.ma/starryblue/abellakr)](https://github.com/oakoudad/badge42)
 ![programmer picture](https://github.com/heybellakrim/gifs/blob/a39c3d5a76f0d99dbf9f15b36a0b3efce94ca5d9/3otv.gif)
 
 📚 I am currently learning software engineering student at <a href="https://1337.ma/en/">1337fil</a> Future is Loading, <a href="https://42.fr/en/network-42/">42 network</a>.
