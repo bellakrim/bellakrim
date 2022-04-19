@@ -1,6 +1,6 @@
  ### Hi there 👋
 ### I'm abdellah bellakrim 💻
-* I am currently learning software engineering student at <a href="https://1337.ma/en/">1337fil</a> Future is Loading, <a href="https://42.fr/en/network-42/">42 network</a> 📚 .
+* I am currently learning software engineering at <a href="https://1337.ma/en/">1337fil</a> Future is Loading, <a href="https://42.fr/en/network-42/">42 network</a> 📚 .
  * (learning web development ,programming languages, etc...).
  * Interested in open source, Deep Logic Building & Problem Solving .
  * how to reach me : </br>
