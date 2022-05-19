@@ -10,7 +10,7 @@
 	</a>
 ### 1337 student badge :
 						
-[![abellakr's 42 stats](https://badge.mediaplus.ma/colorfulwaves/abellakr)](https://github.com/oakoudad/badge42)
+   [![abellakr's 42 stats](https://badge.mediaplus.ma/colorfulwaves/abellakr)](https://github.com/oakoudad/badge42)
 
 ### GitHub Activity stats:
 | ![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellakrim&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellakrim&layout=compact)](https://github.com/bellakrim/github-readme-stats) |
