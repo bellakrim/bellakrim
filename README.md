@@ -9,4 +9,4 @@
 		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
 	</a>
 ### GitHub Activity stats:
-| ![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellakrim&theme=dark&show_icons=true)
+![heybellakrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellakrim&theme=dark&show_icons=true)
